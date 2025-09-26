@@ -9,9 +9,16 @@
 
 - 💬 Ask me about **applying theoretical CS to challenges in healthcare.**
 
-- 📫 How to reach me: **sadrafadaei@gmail.com**
+- 📫 How to reach me: **[sadrafadaei@gmail.com](mailto:sadrafadaei@gmail.com)**
 
 - ⚡ Fun fact: **I have aphantasia, so I have to rely on abstract logic and structure instead of visualization when I code.**
+
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SadraaF&show_icons=true&theme=tokyonight&rank_icon=github" alt="SadraaF's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadraaF&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 
